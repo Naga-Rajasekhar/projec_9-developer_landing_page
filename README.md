@@ -4,11 +4,12 @@
 >
 > By Naga Rajasekhar
 
-You can find the live deployment link of this web page here --> **[Live Deployment Link](https://developerhomepage.netlify.app/)**
+You can find the live deployment link of this web page below 
+# [Live Deployment Link](https://developerhomepage.netlify.app/)
 <br/>
 <br/>
-<br/>
-<br/>
+
+
 ![Preview](./preview_developer.png)
 
 <br/>
@@ -20,3 +21,10 @@ You can find the live deployment link of this web page here --> **[Live Deployme
 3. Learnt about flex and its properties
 4. Gained knowledge on how to use background colors
 5. Gained knowledge about padding, margin, colors, border and their values
+
+
+<br>
+
+<hr>
+
+# It took around 6 hours to design this web page
